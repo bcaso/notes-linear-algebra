@@ -51,3 +51,7 @@
 - 第35集 [期末复习](chapter35.ipynb)
 
 笔记格式借鉴[Jin Li](https://github.com/lijin-THU/)的[机器学习笔记](https://github.com/lijin-THU/notes-machine-learning)。
+
+本笔记中，做到了对视频内容的文字化，
+
+这个视频可以再配另一套笔记来进行同步学习：https://github.com/bcaso/math.git
